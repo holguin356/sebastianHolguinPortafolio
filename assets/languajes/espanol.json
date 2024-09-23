@@ -1,0 +1,26 @@
+{
+  "menu": {
+      "item1": "Inicio",
+      "item2": "Sobre mí",
+      "item3": "Habilidades",
+      "item4": "Formación",
+      "item5": "Proyectos",
+      "item6": "Contáctame"
+  },
+  "home": {
+      "home_text": "Hola! Soy",
+      "dev_title": ", No soy un robot <br />",
+      "subtitle": "Soy un",
+      "developer": "&nbspDesarrollador",
+      "parrafo_info": "Soy estudiante de Desarrollo de Software con conocimientos en <strong>JavaScript</strong>, <strong>GitHub</strong>, <strong>C#</strong> y <strong>CSS</strong>. Me apasiona aprender nuevas tecnologías y resolver problemas. A pesar de no tener experiencia profesional aún, estoy enfocado en mejorar mis habilidades constantemente y aportar valor en cada proyecto. Mi objetivo es crecer como desarrollador full stack y contribuir en proyectos innovadores junto a equipos talentosos.",
+      "cv_button": "Descargar CV",
+      "contact_button": "Contáctame"
+  },
+  "contacto": {
+      "title": "Contáctame",
+      "text": "Completa el formulario a continuación y me pondré en contacto contigo lo antes posible.",
+      "btn_enviar": "Enviar"
+  }
+}
+
+  

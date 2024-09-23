@@ -1,0 +1,27 @@
+{
+  "menu": {
+      "item1": "Home",
+      "item2": "About me",
+      "item3": "Skills",
+      "item4": "Training",
+      "item5": "Projects",
+      "item6": "Contact me"
+  },
+  "home": {
+      "home_text": "Hi! My name is",
+      "dev_title": ", I'm not a Robot",
+      "subtitle": "I'm a",
+      "developer": "&nbspDeveloper",
+      "parrafo_info": "I am a Software Development student with knowledge in <strong>JavaScript</strong>, <strong>GitHub</strong>, <strong>C#</strong>, and <strong>CSS</strong>. I am passionate about learning new technologies and solving problems. Despite not having professional experience yet, I am focused on constantly improving my skills and adding value to each project. My goal is to grow as a full stack developer and contribute to innovative projects alongside talented teams.",
+      "cv_button": "Download CV",
+      "contact_button": "Contact me"
+  },
+ 
+  "contacto": {
+      "title": "Contact me",
+      "text": "Fill out the form below and I will contact you as soon as possible.",
+      "btn_enviar": "Send"
+  }
+}
+
+  

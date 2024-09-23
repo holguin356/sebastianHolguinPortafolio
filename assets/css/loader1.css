@@ -9,7 +9,7 @@ html {
 }
 
 .container--loader {
-    background-color: var(--eerie-black);
+    background-color: black;
     position: fixed;
     width: 100vw;
     height: 100vh;
@@ -26,7 +26,7 @@ html {
     border-radius: 50%;
     width: 2rem;
     height: 2rem;
-    animation: loader 1.8s infinite ease-in-out;
+    animation: loader 1.3s infinite ease-in-out;
 }
 
 .loader {
